@@ -1,0 +1,2 @@
+Origin Shader - linlin
+Build tool and project structure - devendrn (Newb X Legacy, MIT)

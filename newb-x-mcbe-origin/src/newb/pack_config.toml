@@ -1,0 +1,53 @@
+name = "Newb Origin Shader"
+version = [0, 3, 6]
+min_supported_mc_version = [1, 26, 60]
+description = '''
+§c%w
+§7- Physically based sky, clouds, water and lighting
+%v
+§3Origin Shader by linlin (GPL-3.0)
+''' # %w = patch warning, %v = version
+authors = ["linlin","naresh"]
+url = ""
+uuid = "0212f291-f132-41ad-a786-90155f0f7618" # Use https://www.uuidgenerator.net/version4
+materials = ["Actor", "ActorGlint", "ActorMultiTexture", "Clouds", "EndSky", "ItemInHandColor", "ItemInHandColorGlint", "ItemInHandTextured", "RenderChunk", "Sky", "Stars", "SunMoon", "Weather"]
+
+[info]
+copyright = '''
+Origin Shader
+Copyright (C) 2020-2021 linlin. Licensed under the GNU General Public License v3 or later.
+
+This pack is a port of Origin Shader to the Minecraft Bedrock RenderDragon material system.
+The build tool (src/materials structure, tool/) comes from the Newb X Legacy project by devendrn (MIT License).
+''' # %a = authors
+credits = '''
+Origin Shader - linlin
+Build tool and project structure - devendrn (Newb X Legacy, MIT)
+'''
+
+# subpacks are arranged in left to right order
+# right-most subpack is enabled by default
+
+# no water, glass and block reflections
+[[subpack]]
+define = "ORIGIN_LOW"
+materials = ["RenderChunk"]
+description = '''
+Low
+'''
+
+# full steps for fog and sky
+[[subpack]]
+define = "ORIGIN_ULTRA"
+materials = ["RenderChunk", "Sky", "Actor", "ActorGlint", "ActorMultiTexture", "ItemInHandColor", "ItemInHandColorGlint", "ItemInHandTextured"]
+description = '''
+Ultra
+'''
+
+# same as the main pack, no extra materials
+[[subpack]]
+define = "ORIGIN_MEDIUM"
+materials = []
+description = '''
+Medium
+'''

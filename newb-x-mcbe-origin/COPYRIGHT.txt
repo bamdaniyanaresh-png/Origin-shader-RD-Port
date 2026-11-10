@@ -1,0 +1,73 @@
+COPYRIGHT & ATTRIBUTION
+
+Newb X Origin
+
+Origin Shader
+Copyright (C) 2020-2021 linlin. Licensed under the GNU General Public License v3 or later.
+
+This pack is a port of Origin Shader to the Minecraft Bedrock RenderDragon material system.
+The build tool (src/materials structure, tool/) comes from the Newb X Legacy project by devendrn (MIT License).
+
+
+
+This project is an independent RenderDragon port and modification
+of OriginShader, using the Newb X project structure and development
+workflow.
+
+Original Shader
+
+OriginShader
+https://github.com/bWFuanVzYWka/origin-shader
+
+Original license:
+GNU General Public License v3.0 (GPL-3.0)
+
+The original OriginShader source has been modified and adapted
+for Minecraft Bedrock's RenderDragon rendering system.
+
+RenderDragon Port & Modifications
+
+RenderDragon port and original modifications:
+Naresh
+
+Copyright © 2026 Naresh
+
+This includes the RenderDragon adaptation, material implementation,
+rendering changes, and other original modifications created by Naresh.
+
+Newb X
+
+This project follows the Newb X variant naming convention and
+uses parts of the Newb X MCBE project structure/development workflow.
+
+Newb X MCBE:
+https://github.com/devendrn/newb-x-mcbe
+
+Newb X source code is licensed under the MIT License.
+
+Newb X is not claimed as the author of the OriginShader-based
+shader implementation.
+
+The final shader implementation is intended to contain no
+Newb shader code. Any Newb source code or other Newb-licensed
+material that remains in a distributed version is retained under
+its applicable license and copyright notice.
+
+License
+
+The OriginShader-derived shader source and applicable modifications
+are distributed under the GNU General Public License v3.0 (GPL-3.0).
+
+See the LICENSE file for the complete GPL-3.0 license.
+
+Trademark / Naming
+
+"Newb X" is used as part of the variant naming convention associated
+with the Newb X shader ecosystem.
+
+This project is an independent community modification and is not
+an official release of Newb Shader or OriginShader unless explicitly
+stated by their respective authors.
+
+All original copyrights and license notices remain with their
+respective copyright holders.
