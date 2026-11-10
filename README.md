@@ -61,4 +61,4 @@ Rendering: RenderDragon
 Port/Modifications: Naresh
 ## Screenshots
 
-![Shader Preview](screenshots/preview.png)
+![Shader Preview](assets/screenshots/20261110_131745.jpg)
