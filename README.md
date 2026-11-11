@@ -61,7 +61,7 @@ Rendering: RenderDragon
 Port/Modifications: Naresh
 
 ## Dhownload
-![origin_shader]( https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-origin )
+( https://www.curseforge.com/minecraft-bedrock/texture-packs/newb-x-origin )
 ## Screenshots
 
 ![Shader Preview](assets/screenshots/20261110_131745.jpg)
